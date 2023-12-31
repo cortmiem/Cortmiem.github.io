@@ -19,3 +19,5 @@ startLevel = 2
 [taxonomies]
 category = "categories"
 
+[markup.goldmark.renderer]
+unsafe= true
