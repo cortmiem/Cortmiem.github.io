@@ -4,8 +4,8 @@
 <h2>{{.Title}}</h2>
 
 <!--Date-->
-{{.Date.Format "2006-01-02"}}
-{{with .Description}} / {{.}}{{end}}
+<!-- {{.Date.Format "2006-01-02"}}
+{{with .Description}} / {{.}}{{end}} -->
 
 <!--TOC-->
 {{.TableOfContents}}
@@ -14,11 +14,11 @@
 {{.Content}}
 
 <!--Tag-->
-<ul>
+<!-- <ul>
 	{{range (.GetTerms "tags")}}
 	<li><a href="{{.RelPermalink}}">{{.LinkTitle}}</a></li>
 	{{end}}
-</ul>
+</ul> -->
 
 <hr>
 

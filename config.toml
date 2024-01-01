@@ -6,6 +6,7 @@ paginate = 10
 enableInlineShortcodes = true
 ignoreErrors = ["error-remote-getjson"]
 theme = "sk1"
+timeout = "3600s"
 
 [Params]
 mainSections = "post"
