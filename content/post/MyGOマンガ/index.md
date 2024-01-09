@@ -2,7 +2,7 @@
 title = "MyGOマンガ@Lyytoaoitori"
 date = "2023-12-31"
 categories = [
-    "画",
+    "イラスト",
 ]
 
 +++

@@ -1,9 +1,9 @@
 +++
-title = "Service Status"
+title = "システム状況"
 date = "2023-12-29"
 description = "Service Status"
 categories = [
-    "Service",
+    "サービス",
 ]
 +++
 
