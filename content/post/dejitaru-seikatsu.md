@@ -15,6 +15,7 @@ categories = [
 インターネット接続
 
 - Tokyo (NRT04) - Misaka Network, Inc.
+- [Churros](https://churros.cloud/aff.php?aff=91) JP - Akari Networks
 - [MoeCloud](https://lite.moe/aff.php?aff=114851) UK - Kirino LLC
 - AWS Lightsail Tokyo
 - [RecMata®](https://my.recmata.net/#/register?code=WC1qgWC6) 
