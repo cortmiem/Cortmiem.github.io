@@ -16,7 +16,7 @@ categories = [
 これは「X」がいつか消えてしまうことを防ぐために。作者：[@Lyytoaoitori](https://twitter.com/Lyytoaoitori)
 
 
-## [1月26日](https://twitter.com/Lyytoaoitori/status/1750860430275146148) 関係性
+## [2024年1月26日](https://twitter.com/Lyytoaoitori/status/1750860430275146148) 関係性
 
 ![GExORLnXgAAkuWi](GExORLnXgAAkuWi.jfif)
 
