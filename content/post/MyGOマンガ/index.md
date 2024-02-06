@@ -15,6 +15,17 @@ categories = [
 
 これは「X」がいつか消えてしまうことを防ぐために。作者：[@Lyytoaoitori](https://twitter.com/Lyytoaoitori)
 
+
+## [1月26日](https://twitter.com/Lyytoaoitori/status/1750860430275146148) 関係性
+
+![GExORLnXgAAkuWi](GExORLnXgAAkuWi.jfif)
+
+![GExORbOWIAAm2LU](GExORbOWIAAm2LU.jfif)
+
+![GExORycWIAE8voK](GExORycWIAE8voK.jfif)
+
+![GExOSDRXoAAHIaE](GExOSDRXoAAHIaE.jfif)
+
 ## [2023年12月31日](https://twitter.com/Lyytoaoitori/status/1741426583489884292)　2023年もありがとうございました！！ 来年もよろしくお願いします！
 
 ![GCrKP4dWMAA80IV](GCrKP4dWMAA80IV.jpg)
