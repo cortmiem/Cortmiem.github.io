@@ -1,5 +1,5 @@
 +++
-title = "システム状況"
+title = "システム状況 <デモページ>"
 date = "2023-12-29"
 description = "Service Status"
 categories = [
@@ -11,9 +11,10 @@ categories = [
 <nav id=TableOfContents></nav>
 <div id="result">現在、確認作業を行っております。しばらくお待ちください。</div>
 <ul>
-<li>Chrunbits: Special Deals - 3GB GENTLEMAN'S YEARLY VPS<div id="asuhara" class="loading">確認中...</div></li>
-<li>MoeCloud: UK CN2 GIA Super, Upsteam: Kirino LLC <div id="kirino" class="loading">確認中...</div></li>
-<li>Churros: JPBGP Premium, Upsteam: Akari Networks<div id="akari" class="loading">確認中...</div></li>
+<li>Evoxt: Osaka BBTEC, Upsteam: xTom <div id="n1" class="loading">確認中...</div></li>
+<li>Churros: JPBGP Premium, Upsteam: Akari Networks <div id="n2" class="loading">確認中...</div></li>
+<li>V.PS: NRT-HAPPY-MINI-2024, Upsteam: xTom Pty Ltd <div class="success"><a herf="https://www.nodeseek.com/post-64283-1">売り出し中</a></div></li>
+<li>MoeCloud: UK CN2 GIA Super, Upsteam: Kirino LLC <div class="success"><a herf="https://www.nodeseek.com/post-64283-1">売り出し中</a></div></li>
 </ul>
 <p>ここに表示されていない障害がある場合は、<a href=/support>サポート</a>までお問い合わせください。</p>
 
@@ -42,17 +43,15 @@ function checkWebsite(url, resultElement) {
 
 
 document.addEventListener('DOMContentLoaded', async function () {
-    var asuharaElement = document.getElementById('asuhara');
-    var kirinoElement = document.getElementById('kirino');
-    var akariElement = document.getElementById('akari');
+    var null1Element = document.getElementById('n1');
+    var null2Element = document.getElementById('n2');
     var resultElement = document.getElementById('result');
 
     async function checkAllWebsites() {
         try {
             const results = await Promise.all([
-                checkWebsite('https://asuhara.eu.org', asuharaElement),
-                checkWebsite('https://kirino.asuhara.eu.org', kirinoElement),
-                checkWebsite('https://akari.asuhara.eu.org', akariElement)
+                checkWebsite('#', null1Element),
+                checkWebsite('#', null2Element)
             ]);
 
             if (results.every(result => result)) {
