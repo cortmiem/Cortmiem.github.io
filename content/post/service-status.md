@@ -1,5 +1,5 @@
 +++
-title = "システム状況 <デモページ>"
+title = "システム状況 <サンプル>"
 date = "2023-12-29"
 description = "Service Status"
 categories = [
