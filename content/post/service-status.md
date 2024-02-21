@@ -15,7 +15,6 @@ categories = [
 <li>Churros: JPBGP Premium, Upsteam: Akari Networks <div id="n2" class="loading">確認中...</div></li>
 <li>V.PS: NRT-HAPPY-MINI-2024, Upsteam: xTom Pty Ltd <div id="n3" class="loading">確認中...</div></li>
 <!--<li>V.PS: NRT-HAPPY-MINI-2024, Upsteam: xTom Pty Ltd <div class="success"><a href="https://www.nodeseek.com/post-64283-1">売り出し中</a></div></li>-->
-<li>MoeCloud: UK CN2 GIA Super, Upsteam: Kirino LLC <div id="n4" class="loading">確認中...</div></li>
 </ul>
 <p>ここに表示されていない障害がある場合は、<a href=/support>サポート</a>までお問い合わせください。</p>
 
@@ -47,7 +46,6 @@ document.addEventListener('DOMContentLoaded', async function () {
     var null1Element = document.getElementById('n1');
     var null2Element = document.getElementById('n2');
     var null3Element = document.getElementById('n3');
-    var null4Element = document.getElementById('n4');
     var resultElement = document.getElementById('result');
 
     async function checkAllWebsites() {
@@ -56,7 +54,6 @@ document.addEventListener('DOMContentLoaded', async function () {
                 checkWebsite('#', null1Element),
                 checkWebsite('#', null2Element),
                 checkWebsite('#', null3Element),
-                checkWebsite('#', null4Element)
             ]);
 
             if (results.every(result => result)) {
