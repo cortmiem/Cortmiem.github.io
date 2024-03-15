@@ -62,6 +62,14 @@ categories = [
 
 {{< twitter user="niwa_uxx" id="1513104470368190465" >}}
 
+## 2024
+
+{{< twitter user="utugi_0420m" id="1767898463243796508" >}}
+
+{{< twitter user="nishino_WALluka" id="1766122015231267202" >}}
+
+{{< twitter user="YanAnnovo" id="1767943755032911968" >}}
+
 ## 2023
 
 {{< twitter user="Tsundere_dango" id="1690634103224418304" >}}
@@ -201,6 +209,10 @@ categories = [
 {{< twitter user="mer_rr12" id="1612745111544410112" >}}
 
 {{< twitter user="coema_studio" id="1609237225497296898" >}}
+
+{{< twitter user="Yoru_meruno" id="1730943306039967914" >}}
+
+{{< twitter user="ZyUwfcccc" id="1730960798082871513" >}}
 
 ## 2022
 
@@ -377,7 +389,3 @@ categories = [
 {{< twitter user="ricerkgk0120" id="1509820396324884480" >}}
 
 22/04/01から
-
-
-
-
